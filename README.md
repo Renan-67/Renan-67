@@ -2,7 +2,7 @@
 
 Meu nome é Renan Almeida
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](http://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScrip
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
